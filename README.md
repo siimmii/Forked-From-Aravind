@@ -2,5 +2,5 @@
 this is my first ops lab
 <br>
 
-Updated the cmd
+Updated the cmd by simi
 created a repo
